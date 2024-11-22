@@ -1,8 +1,9 @@
+target/
+*.properties  
+*.env        
+.project      
+.classpath    
+.settings/    
 
-*target*
-*.properties
-.project
-.classpath
-.settings/
-.exe
+
 
