@@ -4,5 +4,3 @@
 *.properties
 *.exe
 *.project
-
-
